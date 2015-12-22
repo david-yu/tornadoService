@@ -1,7 +1,6 @@
 # tornadoService
 
 ```
-pip install tornado
-python tornadoService.py
-
+1) pip install tornado
+2) python tornadoService.py
 ```
